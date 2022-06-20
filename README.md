@@ -8,7 +8,7 @@
 ['인프런 프로젝트' 데이터 수집](https://github.com/taesoocho/Portfolio/tree/main/%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EC%88%98%EC%A7%91)
 
 ### 데이터 전처리
-['인프런 프로젝트' 데이터 전처리][[([https://github.com/taesoocho/Portfolio/tree/main/%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EC%88%98%EC%A7%91](https://github.com/taesoocho/Portfolio/tree/main/%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EC%A0%84%EC%B2%98%EB%A6%AC)]]
+['인프런 프로젝트' 데이터 전처리](https://github.com/taesoocho/Portfolio/tree/main/%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EC%A0%84%EC%B2%98%EB%A6%AC)
 
 ### 데이터 분석
 ['인프런 프로젝트' 데이터 분석][(https://github.com/taesoocho/Portfolio/tree/main/%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EC%88%98%EC%A7%91)](https://github.com/taesoocho/Portfolio/tree/main/%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EB%B6%84%EC%84%9D)
